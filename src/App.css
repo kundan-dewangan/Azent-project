@@ -1,0 +1,102 @@
+.main-header {
+  position: absolute;
+  width: 501px;
+  height: 52px;
+  left: 461px;
+  top: 123px;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 61px;
+  color: #000000;
+}
+
+.filter-container {
+  position: absolute;
+  width: 381px;
+  height: 735px;
+  left: 125px;
+  top: 227px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 20px rgba(85, 87, 88, 0.15);
+  border-radius: 20px;
+}
+
+.filter {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.active-filter {
+  background: #F16621;
+  color: #FFFFFF;
+  box-shadow: 0px 4px 10px rgba(156, 187, 217, 0.51);
+  border-radius: 12px;
+}
+
+.container-component {
+  margin-top: 15%;
+}
+
+.card-container {
+  background: #FFFFFF;
+  border: 1px solid #E5E5E5;
+  box-sizing: border-box;
+  border-radius: 20px;
+  height: 300px;
+  width: 318px;
+}
+
+.card-img-custom {
+  background: #EBEBEB;
+  box-shadow: 2px 2px 10px 2px rgba(193, 190, 190, 0.25);
+  border-radius: 20px 20px 0px 0px;
+}
+
+.card-title {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.card-date {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 17px;
+  color: #F16621;
+}
+
+.card-time {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.button-container {
+  background: #FFFFFF;
+  border: 1px solid #00C853;
+  border-radius: 10px;
+  color: #00C853;
+  box-sizing: border-box;
+}
+
+.card-button {
+  background: #FFFFFF;
+  color: #00C853;
+  font-size: 18px;
+  border: unset;
+  padding: 10px
+}
